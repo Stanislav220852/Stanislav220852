@@ -1,6 +1,7 @@
 Hi there! 👋 I'm a backend developer specializing in Python technologies. In my profile, you'll find projects related to FastAPI web development, Telegram bot creation, and various data parsing solutions.
 
 🛠️ My Tech Toolkit 🛠️
+
 🐍 Python Excellence:
   - Python 3.10+ 🐍✨
   - Type hints & modern patterns 🧠💡
@@ -40,8 +41,8 @@ Hi there! 👋 I'm a backend developer specializing in Python technologies. In m
     docker-compose up --build -d
 
 📬 Let's Connect! 📬:
-💌 Email: stasfomchenko5@gmail.com
-📱 Telegram: @Fordmash
+  - 💌 Email: stasfomchenko5@gmail.com
+  - 📱 Telegram: @Fordmash
 
 🌱 Learning Now 🌱
   - Scrapy framework 🕸️
