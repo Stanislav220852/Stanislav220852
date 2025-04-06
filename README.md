@@ -52,6 +52,7 @@ Hi there! 👋 I'm a backend developer specializing in Python technologies. In m
   - Redis caching ⚡
 
 ⭐ Pro tip: Star my repos to track my coding journey!
+
 🔮 Fun fact: I automate everything - even my coffee maker! ☕🤖
 
 Let's build something AMAZING together! 🚀💻
